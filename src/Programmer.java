@@ -12,6 +12,7 @@
 //программист — intern (стажер), потом junior (джуниор), далее middle, senior, lead).
 public class Programmer {
     String name;
+    String names;
     String company;
     String position;
     public Programmer (String name, String company) {
